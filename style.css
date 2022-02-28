@@ -83,6 +83,22 @@
   }
   .teaOfMonth {
     border: 1px solid red;
-    
-    
   }
+.teaOfMonth img {
+  width: 300px;
+  margin: 10px;
+  height: 200px;
+  border: 1px solid red;
+}
+.TeaImages {
+  border: 1px solid white;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  align-content: flex-start;
+  align-items: center;
+}
+footer {
+  border: 1px solid red;
+}
